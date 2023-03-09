@@ -5,7 +5,7 @@
       require_once("t_conn/url.php");
       require_once("t_conn/dbc.php");
       //meta info
-      $page_name="Kingdom star living";
+        $page_name="Kingdom star living";
         $page_desc="";
         $page_img="".$dir."img/logo-meta.jpg";
         $page_author="$company";
